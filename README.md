@@ -44,6 +44,8 @@ This project focuses on customer segmentation using machine learning techniques 
 ✅ Effective in detecting noise and outlier customers.
 
 ✅ Achieved a Silhouette Score of 0.41 for well-defined clusters.
+
+
 **📊 Results & Comparison**
 
 📌 K-Means is effective when the number of clusters is known and data is well-separated.
