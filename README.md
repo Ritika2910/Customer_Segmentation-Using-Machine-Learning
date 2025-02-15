@@ -44,3 +44,14 @@ This project focuses on customer segmentation using machine learning techniques 
 ✅ Effective in detecting noise and outlier customers.
 
 ✅ Achieved a Silhouette Score of 0.41 for well-defined clusters.
+**📊 Results & Comparison**
+
+📌 K-Means is effective when the number of clusters is known and data is well-separated.
+
+📌 DBSCAN is better at identifying noise and irregularly shaped clusters, making it suitable for datasets with varying density.
+
+📌 Silhouette Score for DBSCAN was 0.41, indicating moderate cluster separation.
+
+📌 K-Means performed better for structured datasets with well-defined clusters, while DBSCAN excelled in detecting anomalies and non-uniform distributions.
+
+📌 Overall, the choice depends on the dataset: K-Means for structured clustering and DBSCAN for anomaly detection & irregular clustering.
