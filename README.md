@@ -19,9 +19,9 @@ This project focuses on customer segmentation using machine learning techniques 
 
 **🔍 Key Features**
 
-✅ Data Preprocessing & Analysis: Cleaned, transformed, and analyzed data to extract meaningful insights for targeted marketing.
-✅ Customer Segmentation Model: Developed a data-driven clustering model to identify 5 distinct customer groups within the dataset.
-✅ Optimization & Performance Tuning: Fine-tuned model parameters iteratively, improving segmentation accuracy by 20%.
+1. Data Preprocessing & Analysis: Cleaned, transformed, and analyzed data to extract meaningful insights for targeted marketing.
+2. Customer Segmentation Model: Developed a data-driven clustering model to identify 5 distinct customer groups within the dataset.
+3. Optimization & Performance Tuning: Fine-tuned model parameters iteratively, improving segmentation accuracy by 20%.
 
 **📊 Clustering Techniques**
 
